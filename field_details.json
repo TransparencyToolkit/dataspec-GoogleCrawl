@@ -1,9 +1,9 @@
 [
   {
-    "Field Name": "title",
+    "Field Name": "page_title",
     "Human Readable Name": "Page Title",
     "Type": "String",
-    "Form Params": "title",
+    "Form Params": "page_title",
     "Location": "0",
     "Display Type": "Title",
     "Icon": ""
