@@ -6,5 +6,5 @@
   "File Path Attr": "url",
   "Show Webpage?": "Yes",
     "Web URL": "url",
-    "Tab Order": ["text", "articles"]
+    "Tab Order": ["text", "articles", "pdf"]
 }
