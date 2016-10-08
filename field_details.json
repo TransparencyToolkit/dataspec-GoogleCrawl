@@ -1,0 +1,82 @@
+[
+  {
+    "Field Name": "title",
+    "Human Readable Name": "Page Title",
+    "Type": "String",
+    "Form Params": "title",
+    "Location": "0",
+    "Display Type": "Title",
+    "Icon": ""
+  },
+    {
+	"Field Name": "search_terms",
+	"Human Readable Name": "Selectors",
+	"Type": "String",
+	"Display Type": "Category",
+	"Mapping": "not_analyzed",
+	"Form Params": "search_terms",
+	"Location": "28",
+	"Icon": "document-topic"
+    },
+    {
+	"Field Name": "overall_tag",
+	"Human Readable Name": "Tag",
+	"Type": "String",
+	"Display Type": "Category",
+	"Mapping": "not_analyzed",
+	"Form Params": "overall_tag",
+	"Location": "29",
+	"Icon": "document-topic"
+    },
+    {
+	"Field Name": "doc_source",
+	"Human Readable Name": "Data Source",
+	"Type": "String",
+	"Display Type": "Category",
+	"Mapping": "not_analyzed",
+	"Form Params": "doc_source",
+	"Location": "30",
+	"Icon": "analysis"
+    },{
+    "Field Name": "date_retrieved",
+    "Human Readable Name": "Date Collected",
+    "Type": "Date",
+    "Display Type": "Date",
+    "Mapping": "not_analyzed",
+    "Form Params": [
+      "date_retrieved",
+      "end_date_retrieved"
+    ],
+    "Location": "3",
+    "Icon": ""
+  },{
+    "Field Name": "text",
+    "Human Readable Name": "Page Text",
+    "Type": "String",
+    "Display Type": "Description",
+    "Mapping": "english",
+    "Form Params": "text",
+    "Location": "8",
+    "Truncate": "200",
+    "Icon": ""
+  },{
+    "Field Name": "url",
+    "Human Readable Name": "URL",
+    "Type": "String",
+    "Display Type": "Link",
+    "Mapping": "not_analyzed",
+    "Form Params": "url",
+    "Location": "17",
+    "Link": "mult_items",
+    "Icon": ""
+  },{
+      "Field Name": "dataset_name",
+      "Human Readable Name": "Collection",
+      "Type": "String",
+      "Display Type": "Category",
+      "Mapping": "not_analyzed",
+      "Form Params": "dataset_name",
+      "Location": "27",
+      "Icon": "document-topic"
+  } 
+]
