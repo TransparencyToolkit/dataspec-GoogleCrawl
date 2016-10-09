@@ -3,7 +3,7 @@
 	"search_terms",
 	"dataset_name",
 	"overall_tag",
-	"doc_source"
+	"data_source"
   ],
     "Merge Categorical": [
 	"search_terms",
@@ -15,7 +15,7 @@
 	"url",
 	"date_retrieved",
 	"page_title",
-	"doc_source"
+	"data_source"
 	],
   "In Search Results": [
       "text",
@@ -25,7 +25,7 @@
       "search_terms",
       "dataset_name",
       "overall_tag",
-      "doc_source"
+      "data_source"
 	],
     "In Search Results by Default": [
 	"text",
@@ -35,7 +35,7 @@
 	"search_terms",
 	"dataset_name",
 	"overall_tag",
-	"doc_source"
+	"data_source"
   ],
     "On Doc Page": [
 	"text",
@@ -45,7 +45,7 @@
 	"search_terms",
 	"dataset_name",
 	"overall_tag",
-	"doc_source"
+	"data_source"
   ],
   "Item Field": [
   ],

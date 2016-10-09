@@ -1,7 +1,7 @@
 {
   "Path Type": "Directory",
   "Path": "/path/to/data",
-  "Index Name": "google_harvester",
+  "Index Name": "google_harvester3",
   "Dataset Name": "Google",
   "Ignore Dir Import Ext": "_terms.json",
   "Sort Field": "",
